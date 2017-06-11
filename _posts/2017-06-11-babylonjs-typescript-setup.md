@@ -16,7 +16,7 @@ In this post however we will set up a complete local development enviroment usin
 
 What we will end up with is this scene
 
-![Final scene](/assets/babylonjs-typescript-img1.jpg)
+![Final scene](http://imgur.com/XCMoLNx)
 
 ### Download everything needed
 
