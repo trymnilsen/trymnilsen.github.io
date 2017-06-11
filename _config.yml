@@ -7,7 +7,7 @@ title: Trym Nilsen
 email:
 description: Blogging and general rambling, property of Trym Nilsen.
 url: https://trymnilsen.com
-
+logo: /img/avatar.png
 
 #
 ###################################
@@ -27,6 +27,19 @@ kramdown:
   toc_levels: 1..6
   enable_coderay: false
 
+
+#social
+google_site_verification: LIGEd4C5wqUL2qtYeut-yK0FsAk5SHpvP6kjV4lIUyU
+twitter:
+  username: giffesnaffen
+
+social:
+name: Ben Balter
+links:
+  - https://twitter.com/giffesnaffen
+  - https://www.linkedin.com/in/TrymNilsen
+  - https://github.com/trymnilsen
+
 #
 ###################################
 # Site Owner configuration
@@ -44,8 +57,6 @@ owner:
   google:
     plus: #username
     analytics: UA-72515545-2
-    verify: LIGEd4C5wqUL2qtYeut-yK0FsAk5SHpvP6kjV4lIUyU
-    ad-client: ca-pub-4025796188343821
     ad-slot:
   bing-verify:
   github: trymnilsen
@@ -67,3 +78,7 @@ owner:
   flickr: #username
   500px: #username
   codepen: #username
+
+gems:
+  - jekyll-sitemap
+  - jekyll-seo-tag
