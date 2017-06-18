@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up Babylon JS development environment with typescript and vscode
-excerpt: "Create a complete "
+excerpt: "Lets get started creating 3D games using BabylonJS with typescript"
 categories: ["Game Development"]
 tags: ["babylonjs","typescript", "vs code"]
 comments: true

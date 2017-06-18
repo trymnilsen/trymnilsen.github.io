@@ -4,6 +4,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   {% seo %}
+  {% if page.image.feature %}
+  <meta name="twitter:image" content="{{page.image.feature}}" />
+  {% endif %}
   <meta name="google-site-verification" content="LIGEd4C5wqUL2qtYeut-yK0FsAk5SHpvP6kjV4lIUyU" />
   <!-- CSS files -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
