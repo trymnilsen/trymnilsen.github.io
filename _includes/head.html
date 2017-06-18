@@ -6,6 +6,8 @@
   {% seo %}
   {% if page.image.feature %}
   <meta name="twitter:image" content="{{page.image.feature}}" />
+  {%else%}
+  <meta name="twitter:image" content="{{ site.url }}/img/{{ author.avatar }}" />
   {% endif %}
   <meta name="google-site-verification" content="LIGEd4C5wqUL2qtYeut-yK0FsAk5SHpvP6kjV4lIUyU" />
   <!-- CSS files -->
