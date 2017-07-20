@@ -5,6 +5,8 @@ excerpt: "Use DOM events to create a IsKeyDown map of currently and previously p
 categories: ["Game Development"]
 tags: ["keyboard","typescript"]
 comments: true
+image:
+  feature: https://i.imgur.com/SZb1kCU.png
 ---
 
 Getting input from the browser requires us to listen for dom events. As our game runs in a loop we might have the need to use a typical "Is the A button currently down" method, rather than getting an event telling us it was pressed down. 
