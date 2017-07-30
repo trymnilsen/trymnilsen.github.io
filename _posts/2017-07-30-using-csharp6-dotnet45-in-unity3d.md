@@ -128,3 +128,7 @@ string fullGreeting = $"{FirstName} {LastName}";
 There are a lot of other features as well.
 For a further intro i would suggest having a look at the dotnet documentation.
 [What's new in c# 6](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-6)
+
+### Give me a follow
+
+If you liked this post, give me a follow on twitter [@giffesnaffen](https://twitter.com/giffesnaffen)
